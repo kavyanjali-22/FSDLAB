@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fruits and Vegetables</title>
+</head>
+<body>
+<font color="black">
+<h1>Fruits and Vegetables</h1>
+<h2>1. Ordered List - Fruits</h2>
+<ol>
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Mango</li>
+    <li>Orange</li>
+</ol>
+<h2>2. Unordered List - Vegetables</h2>
+<ul>
+    <li>Carrot</li>
+    <li>Potato</li>
+    <li>Tomato</li>
+    <li>Brinjal</li>
+</ul>
+<h2>3. Nested List</h2>
+<ul>
+    <li>Fruits
+        <ul>
+            <li>Apple</li>
+            <li>Mango</li>
+        </ul>
+    </li>
+  <li>Vegetable</li>
+<ul>
+            <li>Carrot</li>
+            <li>Potato</li>
+        </ul>
+    </li>
+</ul>
+<h2>4. Ordered List inside Unordered List</h2>
+<ul>
+    <li>Fruits
+        <ol>
+            <li>Apple</li>
+            <li>Banana</li>
+        </ol>
+    </li>
+    <li>Vegetables
+        <ol>
+            <li>Tomato</li>
+            <li>Carrot</li>
+        </ol>
+    </li>
+</ul>
+<h2>5. Definition List</h2>
+<dl>
+ <dt>Apple</dt>
+    <dd>A sweet and nutritious fruit.</dd>
+<dt>Mango</dt>
+    <dd>A sweet tropical fruit.</dd>
+    <dt>Carrot</dt>
+    <dd>An orange-colored vegetable.</dd>
+    <dt>Potato</dt>
+    <dd>A common vegetable.</dd>
+</dl>
+</font>
+</body>
+</html>
+
